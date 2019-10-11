@@ -1,0 +1,20 @@
+{
+  "name": "nuxt-blog-4",
+  "version": "1.0.0",
+  "description": "My groovy Nuxt.js project",
+  "author": "urbansky",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "highlight.js": "^9.15.10",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "frontmatter-markdown-loader": "^2.1.0"
+  }
+}
