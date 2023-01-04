@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "highlight.js": "^9.15.10",
-    "nuxt": "^2.0.0"
+    "nuxt": "^2.15.8"
   },
   "devDependencies": {
     "frontmatter-markdown-loader": "^2.1.0"
